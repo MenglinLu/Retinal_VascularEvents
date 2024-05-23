@@ -7,13 +7,13 @@ This library is designed for predicting whether a patient will experience major 
 This package was trained and tested under Ubuntu 18.04. Modifications may be necessary to run it on other platforms.
 
 **Python Dependencies**
-numpy  
-pandas 
-sklearn 
-torch 
-pillow 
-argparse 
-tqdm
+- numpy  
+- pandas 
+- sklearn 
+- torch 
+- pillow 
+- argparse 
+- tqdm
 
 **Code structure**
 
